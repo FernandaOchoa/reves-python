@@ -1,0 +1,9 @@
+frase = raw_input ('Introduce una frase ')
+count =0
+frase = frase[::-1]
+for i in fruta:
+	if i=='e':
+	count+=1
+		print (frase +"frecuencia de 'e': " +count)
+
+		
